@@ -129,7 +129,7 @@ class Circle(Shape):
 
 # Прямоугольник
 Rectan = Rectangle()
-Rectan.set_Position([200; 300])
+Rectan.set_Position([200, 300])
 Rectan.get_Position()
 Rectan.set_Color('Красный')
 Rectan.get_Color()
